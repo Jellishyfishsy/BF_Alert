@@ -1,0 +1,67 @@
+Dac_trung,Do_quan_trong
+Destination Port,0.9925015289115223
+Subflow Fwd Packets,0.005223352855018011
+min_seg_size_forward,0.0014403094956558407
+Init_Win_bytes_backward,0.00040146272510393485
+Fwd IAT Min,0.00019717682081418292
+Down/Up Ratio,0.0001330450866779517
+Bwd Header Length,5.438286221717077e-05
+Init_Win_bytes_forward,4.8483815935608686e-05
+Subflow Fwd Bytes,2.5742704159471026e-07
+Bwd Packet Length Std,1.2411916705937658e-14
+Bwd IAT Max,5.399552948118195e-16
+Fwd IAT Total,2.699561144390071e-16
+Flow Packets/s,1.0124161777721624e-16
+Bwd Packets/s,1.2463550405402286e-17
+Flow Duration,0.0
+Fwd Packet Length Mean,0.0
+Fwd Packet Length Std,0.0
+Total Fwd Packets,0.0
+Flow IAT Std,0.0
+Flow IAT Mean,0.0
+Flow Bytes/s,0.0
+Bwd Packet Length Mean,0.0
+Bwd Packet Length Max,0.0
+Fwd IAT Mean,0.0
+Flow IAT Min,0.0
+Flow IAT Max,0.0
+Bwd IAT Total,0.0
+Fwd IAT Max,0.0
+Bwd Packet Length Min,0.0
+Total Backward Packets,0.0
+Fwd Packet Length Max,0.0
+Fwd Packet Length Min,0.0
+Total Length of Fwd Packets,0.0
+Total Length of Bwd Packets,0.0
+Fwd Packets/s,0.0
+Fwd Header Length,0.0
+Bwd IAT Std,0.0
+Bwd IAT Min,0.0
+Bwd IAT Mean,0.0
+Fwd IAT Std,0.0
+Packet Length Mean,0.0
+Min Packet Length,0.0
+Avg Bwd Segment Size,0.0
+Fwd Header Length.1,0.0
+Fwd Avg Bytes/Bulk,0.0
+Max Packet Length,0.0
+Packet Length Std,0.0
+Packet Length Variance,0.0
+Average Packet Size,0.0
+Avg Fwd Segment Size,0.0
+Bwd Avg Bulk Rate,0.0
+Bwd Avg Packets/Bulk,0.0
+Bwd Avg Bytes/Bulk,0.0
+Fwd Avg Bulk Rate,0.0
+Fwd Avg Packets/Bulk,0.0
+Subflow Bwd Packets,0.0
+Subflow Bwd Bytes,0.0
+act_data_pkt_fwd,0.0
+Active Mean,0.0
+Active Std,0.0
+Active Max,0.0
+Active Min,0.0
+Idle Mean,0.0
+Idle Std,0.0
+Idle Max,0.0
+Idle Min,0.0

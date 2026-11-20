@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+      BENIGN     0.9994    1.0000    0.9997     82495
+ FTP-Patator     1.0000    0.9924    0.9962      1186
+ SSH-Patator     1.0000    0.9410    0.9696       644
+
+    accuracy                         0.9994     84325
+   macro avg     0.9998    0.9778    0.9885     84325
+weighted avg     0.9994    0.9994    0.9994     84325
